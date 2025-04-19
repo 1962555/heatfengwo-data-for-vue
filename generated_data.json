@@ -1,0 +1,454 @@
+{
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "city": "杭州市",
+                "name": "路口1",
+                "rank": 8.795244
+            },
+            "geometry": {
+                "coordinates": [
+                    114.355318,
+                    34.821104
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "city": "杭州市",
+                "name": "路口2",
+                "rank": 73.955995
+            },
+            "geometry": {
+                "coordinates": [
+                    114.347063,
+                    34.821307
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "city": "杭州市",
+                "name": "路口3",
+                "rank": 90.953739
+            },
+            "geometry": {
+                "coordinates": [
+                    114.346001,
+                    34.819911
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "city": "杭州市",
+                "name": "路口4",
+                "rank": 89.343682
+            },
+            "geometry": {
+                "coordinates": [
+                    114.345745,
+                    34.817404
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "city": "杭州市",
+                "name": "路口5",
+                "rank": 45.388199
+            },
+            "geometry": {
+                "coordinates": [
+                    114.357206,
+                    34.819906
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "city": "杭州市",
+                "name": "路口6",
+                "rank": 4.6565
+            },
+            "geometry": {
+                "coordinates": [
+                    114.360653,
+                    34.8193
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "city": "杭州市",
+                "name": "路口7",
+                "rank": 25.81918
+            },
+            "geometry": {
+                "coordinates": [
+                    114.344205,
+                    34.821521
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "city": "杭州市",
+                "name": "路口8",
+                "rank": 16.907525
+            },
+            "geometry": {
+                "coordinates": [
+                    114.343656,
+                    34.819754
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "city": "杭州市",
+                "name": "路口9",
+                "rank": 99.524194
+            },
+            "geometry": {
+                "coordinates": [
+                    114.34257,
+                    34.818243
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "city": "杭州市",
+                "name": "路口10",
+                "rank": 70.282926
+            },
+            "geometry": {
+                "coordinates": [
+                    114.359373,
+                    34.818922
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "city": "杭州市",
+                "name": "路口11",
+                "rank": 73.332062
+            },
+            "geometry": {
+                "coordinates": [
+                    114.359937,
+                    34.817591
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "city": "杭州市",
+                "name": "路口12",
+                "rank": 35.303181
+            },
+            "geometry": {
+                "coordinates": [
+                    114.347042,
+                    34.817671
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "city": "杭州市",
+                "name": "路口13",
+                "rank": 3.236588
+            },
+            "geometry": {
+                "coordinates": [
+                    114.351158,
+                    34.817197
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "city": "杭州市",
+                "name": "路口14",
+                "rank": 59.094953
+            },
+            "geometry": {
+                "coordinates": [
+                    114.359859,
+                    34.817293
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "city": "杭州市",
+                "name": "路口15",
+                "rank": 75.709366
+            },
+            "geometry": {
+                "coordinates": [
+                    114.361616,
+                    34.818887
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "city": "杭州市",
+                "name": "路口16",
+                "rank": 11.310821
+            },
+            "geometry": {
+                "coordinates": [
+                    114.351222,
+                    34.8192
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "city": "杭州市",
+                "name": "路口17",
+                "rank": 70.873361
+            },
+            "geometry": {
+                "coordinates": [
+                    114.355998,
+                    34.819763
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "city": "杭州市",
+                "name": "路口18",
+                "rank": 20.376576
+            },
+            "geometry": {
+                "coordinates": [
+                    114.348901,
+                    34.819105
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "city": "杭州市",
+                "name": "路口19",
+                "rank": 37.183865
+            },
+            "geometry": {
+                "coordinates": [
+                    114.342755,
+                    34.817756
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "city": "杭州市",
+                "name": "路口20",
+                "rank": 3.394492
+            },
+            "geometry": {
+                "coordinates": [
+                    114.353052,
+                    34.816294
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "city": "杭州市",
+                "name": "路口21",
+                "rank": 90.121053
+            },
+            "geometry": {
+                "coordinates": [
+                    114.358931,
+                    34.82077
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "city": "杭州市",
+                "name": "路口22",
+                "rank": 54.145356
+            },
+            "geometry": {
+                "coordinates": [
+                    114.342108,
+                    34.816769
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "city": "杭州市",
+                "name": "路口23",
+                "rank": 43.088803
+            },
+            "geometry": {
+                "coordinates": [
+                    114.35783,
+                    34.819538
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "city": "杭州市",
+                "name": "路口24",
+                "rank": 74.40202
+            },
+            "geometry": {
+                "coordinates": [
+                    114.354141,
+                    34.818109
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "city": "杭州市",
+                "name": "路口25",
+                "rank": 4.485695
+            },
+            "geometry": {
+                "coordinates": [
+                    114.354437,
+                    34.818446
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "city": "杭州市",
+                "name": "路口26",
+                "rank": 64.434904
+            },
+            "geometry": {
+                "coordinates": [
+                    114.354312,
+                    34.81706
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "city": "杭州市",
+                "name": "路口27",
+                "rank": 48.604762
+            },
+            "geometry": {
+                "coordinates": [
+                    114.353444,
+                    34.819889
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "city": "杭州市",
+                "name": "路口28",
+                "rank": 95.821348
+            },
+            "geometry": {
+                "coordinates": [
+                    114.353119,
+                    34.818066
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "city": "杭州市",
+                "name": "路口29",
+                "rank": 75.773921
+            },
+            "geometry": {
+                "coordinates": [
+                    114.356707,
+                    34.821419
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "city": "杭州市",
+                "name": "路口30",
+                "rank": 30.540461
+            },
+            "geometry": {
+                "coordinates": [
+                    114.352241,
+                    34.820888
+                ],
+                "type": "Point"
+            }
+        }
+    ]
+}
